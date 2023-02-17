@@ -1,4 +1,7 @@
+Before starting this project sure to check [preKnowledge](https://github.com/dakshdeepHERE/SpinWheel-Game/blob/main/src/PreKnowledge.md) file. 
+
 # SpinWheel-Game
+
 In this project I was suppose to use my knowledge of `recursion` and create a Java game using `recursion`. The game includes three `recursive` stages `Generate Spinning Wheel`, `Spin the Wheel`, and `Play the Game`. The game starts by generating five unique random numbers between 0 and 299 inclusive (no duplications). The five generated numbers represent the spinning wheel sectors. The second stage of the game is `Spin the Wheel`. In this stage, the program generates a random number between 1 and 5 inclusive, representing the wheel sector. Based on the sector number, the value will be the `Play the Game` stage parameter.
 
 The program should include at least the following methods:
